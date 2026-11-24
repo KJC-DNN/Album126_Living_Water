@@ -15,12 +15,12 @@ Seven prayer letters of rain, refuge, peace, and presence. Living water. Tamil o
 7. My Beloved - என் நேசர்
 
 # Published
-GitHub: 
-Archive: album-126-living-water-main-cover
-Zenodo: https://doi.org/10.5281/zenodo.24492316
+1. GitHub: 
+2. Archive: album-126-living-water-main-cover
+3. Zenodo: https://doi.org/10.5281/zenodo.24492316
 
 # Instrumental
 ## Published
-GitHub: 
-Archive: album-126-instrumentals-living-water-cover
-Zenodo: 
+1. GitHub: 
+2. Archive: album-126-instrumentals-living-water-cover
+3. Zenodo: 
