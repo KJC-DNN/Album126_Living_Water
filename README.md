@@ -21,6 +21,6 @@ Seven prayer letters of rain, refuge, peace, and presence. Living water. Tamil o
 
 # Instrumental
 ## Published
-1. GitHub: 
+1. GitHub: https://github.com/KJC-DNN/Album126_Instrumentals_Living_Water/releases/tag/126.0.0
 2. Archive: album-126-instrumentals-living-water-cover
 3. Zenodo: https://doi.org/10.5281/zenodo.24491288
